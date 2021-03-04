@@ -1,2 +1,2 @@
 # codewars
-Collection of solved codewars problems
+Collection of solved codewars problems using Python
