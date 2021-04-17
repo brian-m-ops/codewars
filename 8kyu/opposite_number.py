@@ -7,3 +7,11 @@ def opposite(number):
         return number - number * 2
 
 # print(opposite(-7))
+
+# Better solutions
+
+# def opposite(number):
+#     return -number
+
+# def opposite(number):
+#   return number * -1

@@ -17,3 +17,13 @@ def get_count(input_str):
 
 
 # print(get_count('abcde'))
+
+# Better ways
+# 1
+# import re
+# def getCount(str):
+#     return len(re.findall('[aeiou]', str, re.IGNORECASE))
+
+# 2
+# def getCount(s):
+#     return sum(c in 'aeiou' for c in s)
